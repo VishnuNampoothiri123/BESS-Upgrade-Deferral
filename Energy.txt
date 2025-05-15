@@ -1,0 +1,40 @@
+Year: 2023
+Total Violating Hours: 73
+Total Violating Energy (kWh): 13084.5858
+Maximum Load Above Limit (kW): 496.2479
+Maximum Cumulative Violating Energy (kWh): 3222.6154
+Required Battery Size (MW): 0.49625
+Required Battery Size (MWh): 4846.0382
+ 
+Year: 2024
+Total Violating Hours: 116
+Total Violating Energy (kWh): 27773.4653
+Maximum Load Above Limit (kW): 656.1728
+Maximum Cumulative Violating Energy (kWh): 5335.1447
+Required Battery Size (MW): 0.65617
+Required Battery Size (MWh): 8022.774
+ 
+Year: 2025
+Total Violating Hours: 160
+Total Violating Energy (kWh): 48610.0882
+Maximum Load Above Limit (kW): 819.2963
+Maximum Cumulative Violating Energy (kWh): 7741.9486
+Required Battery Size (MW): 0.8193
+Required Battery Size (MWh): 11642.028
+ 
+Year: 2026
+Total Violating Hours: 239
+Total Violating Energy (kWh): 78935.6307
+Maximum Load Above Limit (kW): 985.6822
+Maximum Cumulative Violating Energy (kWh): 10536.3692
+Required Battery Size (MW): 0.98568
+Required Battery Size (MWh): 15844.1642
+ 
+Year: 2027
+Total Violating Hours: 369
+Total Violating Energy (kWh): 125604.4409
+Maximum Load Above Limit (kW): 1155.3959
+Maximum Cumulative Violating Energy (kWh): 13447.0966
+Required Battery Size (MW): 1.1554
+Required Battery Size (MWh): 20221.1979
+ 

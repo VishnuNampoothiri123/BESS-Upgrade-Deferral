@@ -1,0 +1,115 @@
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('tabular/braceReference')" style="font-weight:bold"> {} </a>
+Unrecognized table variable name 'Load (kW)'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Project1V1', 'C:\Users\winpa\OneDrive\Documents\Documents\UNM\UNM-Spring 2024\Smart Grid Technologies\Projects\Project 1\Project1V1.m', 11)" style="font-weight:bold">Project1V1</a> (<a href="matlab: opentoline('C:\Users\winpa\OneDrive\Documents\Documents\UNM\UNM-Spring 2024\Smart Grid Technologies\Projects\Project 1\Project1V1.m',11,0)">line 11</a>)
+load_profile = data{:, 'Load (kW)'};
+} 
+Project1V1
+Year: 2023
+Total Violating Hours: 73
+Total Violating Energy (kWh): 13084.5858
+Maximum Load Above Limit (kW): 496.2479
+Maximum Cumulative Violating Energy (kWh): 13084.5858
+ 
+Year: 2024
+Total Violating Hours: 116
+Total Violating Energy (kWh): 27773.4653
+Maximum Load Above Limit (kW): 656.1728
+Maximum Cumulative Violating Energy (kWh): 27773.4653
+ 
+Year: 2025
+Total Violating Hours: 160
+Total Violating Energy (kWh): 48610.0882
+Maximum Load Above Limit (kW): 819.2963
+Maximum Cumulative Violating Energy (kWh): 48610.0882
+ 
+Year: 2026
+Total Violating Hours: 239
+Total Violating Energy (kWh): 78935.6307
+Maximum Load Above Limit (kW): 985.6822
+Maximum Cumulative Violating Energy (kWh): 78935.6307
+ 
+Max Load Above Limit Values: 496.2479      656.1728      819.2963      985.6822
+Max Cumulative Energy Values: 13084.5858      27773.4653      48610.0882      78935.6307
+Required Battery Size (MW): 118700.1965
+Required Battery Size (MWh): 23740.0393
+Year: 2023
+Total Violating Hours: 73
+Total Violating Energy (kWh): 13084.5858
+Maximum Load Above Limit (kW): 496.2479
+Maximum Cumulative Violating Energy (kWh): 13084.5858
+Max Load Above Limit Values: 496.2479             0             0             0
+Max Cumulative Energy Values: 13084.5858               0               0               0
+Required Battery Size (MW): 19676.0689
+Required Battery Size (MWh): 3935.2138
+ 
+Year: 2024
+Total Violating Hours: 116
+Total Violating Energy (kWh): 27773.4653
+Maximum Load Above Limit (kW): 656.1728
+Maximum Cumulative Violating Energy (kWh): 27773.4653
+Max Load Above Limit Values: 496.2479      656.1728             0             0
+Max Cumulative Energy Values: 13084.5858      27773.4653               0               0
+Required Battery Size (MW): 41764.6095
+Required Battery Size (MWh): 8352.9219
+ 
+Year: 2025
+Total Violating Hours: 160
+Total Violating Energy (kWh): 48610.0882
+Maximum Load Above Limit (kW): 819.2963
+Maximum Cumulative Violating Energy (kWh): 48610.0882
+Max Load Above Limit Values: 496.2479      656.1728      819.2963             0
+Max Cumulative Energy Values: 13084.5858      27773.4653      48610.0882               0
+Required Battery Size (MW): 73097.877
+Required Battery Size (MWh): 14619.5754
+ 
+Year: 2026
+Total Violating Hours: 239
+Total Violating Energy (kWh): 78935.6307
+Maximum Load Above Limit (kW): 985.6822
+Maximum Cumulative Violating Energy (kWh): 78935.6307
+Max Load Above Limit Values: 496.2479      656.1728      819.2963      985.6822
+Max Cumulative Energy Values: 13084.5858      27773.4653      48610.0882      78935.6307
+Required Battery Size (MW): 118700.1965
+Required Battery Size (MWh): 23740.0393
+ 
+Year: 2023
+Total Violating Hours: 73
+Total Violating Energy (kWh): 13084.5858
+Maximum Load Above Limit (kW): 496.2479
+Maximum Cumulative Violating Energy (kWh): 13084.5858
+Max Load Above Limit Values: 496.2479             0             0             0
+Max Cumulative Energy Values: 13084.5858               0               0               0
+Required Battery Size (MW): 19676.0689
+Required Battery Size (MWh): 3935.2138
+ 
+Year: 2024
+Total Violating Hours: 116
+Total Violating Energy (kWh): 27773.4653
+Maximum Load Above Limit (kW): 656.1728
+Maximum Cumulative Violating Energy (kWh): 27773.4653
+Max Load Above Limit Values: 496.2479      656.1728             0             0
+Max Cumulative Energy Values: 13084.5858      27773.4653               0               0
+Required Battery Size (MW): 41764.6095
+Required Battery Size (MWh): 8352.9219
+ 
+Year: 2025
+Total Violating Hours: 160
+Total Violating Energy (kWh): 48610.0882
+Maximum Load Above Limit (kW): 819.2963
+Maximum Cumulative Violating Energy (kWh): 48610.0882
+Max Load Above Limit Values: 496.2479      656.1728      819.2963             0
+Max Cumulative Energy Values: 13084.5858      27773.4653      48610.0882               0
+Required Battery Size (MW): 73097.877
+Required Battery Size (MWh): 14619.5754
+ 
+Year: 2026
+Total Violating Hours: 239
+Total Violating Energy (kWh): 78935.6307
+Maximum Load Above Limit (kW): 985.6822
+Maximum Cumulative Violating Energy (kWh): 78935.6307
+Max Load Above Limit Values: 496.2479      656.1728      819.2963      985.6822
+Max Cumulative Energy Values: 13084.5858      27773.4653      48610.0882      78935.6307
+Required Battery Size (MW): 118700.1965
+Required Battery Size (MWh): 23740.0393
+ 
